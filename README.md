@@ -1,5 +1,5 @@
 
-![Alt text](images/working-with-context-variables-node.png)
+![Project banner](./images/working-with-context-variables-java.png)
 
 #Context Variable Demo
 
