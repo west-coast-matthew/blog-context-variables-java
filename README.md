@@ -5,6 +5,7 @@
 
 
 ##Background
+
 A simple application that demonstrates how to bind a variable to a context.
 
 
