@@ -17,13 +17,13 @@ A simple application that demonstrates how to bind a variable to a context.
 The above command will launch the server
 
 ```
-npm run start
+mvn spring-boot:run
 ```
 
 And this command will allow you to test via the command line
 
 ```
-clear && curl -v 'http://localhost:3000/welcome'
+clear && curl -v 'http://localhost:8080/welcome'
 ```
 This will produce a series of logs that essentially just illustrates the shared unique transaction id across the various actors in the call stack.
 
